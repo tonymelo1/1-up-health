@@ -1,0 +1,21 @@
+header.no-token-header {
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+div.home-page {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.token_form > label > input {
+    margin: 0.5rem;
+    margin-right: 0;
+}
+
+input[type="text"] {
+    width: 250px;
+}
